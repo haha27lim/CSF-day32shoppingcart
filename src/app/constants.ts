@@ -1,0 +1,26 @@
+import {Inventory} from "./models";
+
+export const INVENTORY: Inventory[] = [
+    { name: 'Acron Squash', unitPrice: .5, image: 'acorn_squash.png' },
+    { name: 'Apple', unitPrice: .3, image: 'apple.png'},
+    { name: 'Bell Pepper', unitPrice: .2, image: 'bell_pepper.png' },
+    { name: 'Blueberries', unitPrice: .3, image: 'blueberries.png'},
+    { name: 'broccoli', unitPrice: 1.1, image: 'broccoli.png'},
+    { name: 'Carrot', unitPrice: .7, image: 'carrot.png' },
+    { name: 'Celery', unitPrice: .5, image: 'celery.png' },
+    { name: 'Chiili Pepper', unitPrice: .2, image: 'chili_pepper.png' },
+    { name: 'Corn', unitPrice: .4, image: 'corn.png' },
+    { name: 'Eggplant', unitPrice: .2, image: 'eggplant.png' },
+    { name: 'Harold', unitPrice: .7, image: 'harold.png' },
+    { name: 'Lettuce', unitPrice: .9, image: 'lettuce.png' },
+    { name: 'Mushroom', unitPrice: 1.3, image: 'mushroom.png' },
+    { name: 'Onion', unitPrice: .3, image: 'onion.png' },
+    { name: 'Potato', unitPrice: .4, image: 'potato.png' },
+    { name: 'Pumpkin', unitPrice: 1.5, image: 'pumpkin.png' },
+    { name: 'Radish', unitPrice: 1, image: 'radish.png' },
+    { name: 'Squash', unitPrice: .7, image: 'squash.png' },
+    { name: 'Strawberry', unitPrice: .6, image: 'strawberry.png' },
+    { name: 'Sugar Snap', unitPrice: .5, image: 'sugar_snap.png' },
+    { name: 'Tomato', unitPrice: .4, image: 'tomato.png' },
+    { name: 'Zucchini', unitPrice: 2, image: 'zucchini.png' },
+]
